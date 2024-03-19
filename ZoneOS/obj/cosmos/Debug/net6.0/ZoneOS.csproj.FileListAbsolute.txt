@@ -1,0 +1,13 @@
+C:\Users\Creeper\Documents\GitHub\ZoneOS\ZoneOS\bin\cosmos\Debug\net6.0\ZoneOS.deps.json
+C:\Users\Creeper\Documents\GitHub\ZoneOS\ZoneOS\bin\cosmos\Debug\net6.0\ZoneOS.dll
+C:\Users\Creeper\Documents\GitHub\ZoneOS\ZoneOS\bin\cosmos\Debug\net6.0\ZoneOS.pdb
+C:\Users\Creeper\Documents\GitHub\ZoneOS\ZoneOS\obj\cosmos\Debug\net6.0\ZoneOS.csproj.AssemblyReference.cache
+C:\Users\Creeper\Documents\GitHub\ZoneOS\ZoneOS\obj\cosmos\Debug\net6.0\ZoneOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Creeper\Documents\GitHub\ZoneOS\ZoneOS\obj\cosmos\Debug\net6.0\ZoneOS.AssemblyInfoInputs.cache
+C:\Users\Creeper\Documents\GitHub\ZoneOS\ZoneOS\obj\cosmos\Debug\net6.0\ZoneOS.AssemblyInfo.cs
+C:\Users\Creeper\Documents\GitHub\ZoneOS\ZoneOS\obj\cosmos\Debug\net6.0\ZoneOS.csproj.CoreCompileInputs.cache
+C:\Users\Creeper\Documents\GitHub\ZoneOS\ZoneOS\obj\cosmos\Debug\net6.0\ZoneOS.sourcelink.json
+C:\Users\Creeper\Documents\GitHub\ZoneOS\ZoneOS\obj\cosmos\Debug\net6.0\ZoneOS.dll
+C:\Users\Creeper\Documents\GitHub\ZoneOS\ZoneOS\obj\cosmos\Debug\net6.0\refint\ZoneOS.dll
+C:\Users\Creeper\Documents\GitHub\ZoneOS\ZoneOS\obj\cosmos\Debug\net6.0\ZoneOS.pdb
+C:\Users\Creeper\Documents\GitHub\ZoneOS\ZoneOS\obj\cosmos\Debug\net6.0\ref\ZoneOS.dll

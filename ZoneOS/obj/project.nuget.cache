@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Re+uoIadiG7shNoyAsdMVyTJtg7smo/mH33fbOu2obCVWioaAnBVY9yZT22aLgxKGWfTrX+2E8xnNGNP62lGRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Creeper\\Documents\\GitHub\\ZoneOS\\ZoneOS\\ZoneOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Creeper\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20240222081942\\cosmos.build.0.1.0-localbuild20240222081942.nupkg.sha512",
+    "C:\\Users\\Creeper\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20240222081953\\cosmos.common.0.1.0-localbuild20240222081953.nupkg.sha512",
+    "C:\\Users\\Creeper\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20240222081953\\cosmos.core.0.1.0-localbuild20240222081953.nupkg.sha512",
+    "C:\\Users\\Creeper\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20240222081953\\cosmos.debug.kernel.0.1.0-localbuild20240222081953.nupkg.sha512",
+    "C:\\Users\\Creeper\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20240222081953\\cosmos.hal2.0.1.0-localbuild20240222081953.nupkg.sha512",
+    "C:\\Users\\Creeper\\.nuget\\packages\\cosmos.plugs\\0.1.0-localbuild20240222081953\\cosmos.plugs.0.1.0-localbuild20240222081953.nupkg.sha512",
+    "C:\\Users\\Creeper\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20240222081953\\cosmos.system2.0.1.0-localbuild20240222081953.nupkg.sha512",
+    "C:\\Users\\Creeper\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20240222081953\\il2cpu.api.0.1.0-localbuild20240222081953.nupkg.sha512"
+  ],
+  "logs": []
+}
