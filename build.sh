@@ -9,4 +9,10 @@ xorriso -as mkisofs -b boot/limine-bios-cd.bin \
         -efi-boot-part --efi-boot-image --protective-msdos-label \
         CDROOT -o ISO/ZoneOS.iso
 
+cd ISO
+
+./limine bios-install ZoneOS.iso
+
+cd ..
+
 qemu-system-x86_64 -cdrom ISO/ZoneOS.iso
